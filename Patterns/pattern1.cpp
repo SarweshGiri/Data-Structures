@@ -16,3 +16,13 @@ int main()
    
     return 0;
 }
+
+
+//Output will be like
+/*
+For n = 4
+*
+**
+***
+****
+*/
